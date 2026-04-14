@@ -52,13 +52,3 @@ Plik z punktami osnowy powinien mieć format:
 ```
 ID X Y Z
 ```
-
-## Uwagi
-
-* istniejące dane w projekcie są usuwane przed uruchomieniem
-* dopasowanie punktów odbywa się na podstawie odległości w przestrzeni
-* dokładność wyników zależy od jakości danych wejściowych
-
-## Autor
-
-Dominik
